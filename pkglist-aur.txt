@@ -1,5 +1,6 @@
 1password
 google-chrome
+python-validity
 toot
 trizen
 ttf-meslo-nerd-font-powerlevel10k

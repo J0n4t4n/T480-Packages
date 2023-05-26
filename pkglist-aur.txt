@@ -1,6 +1,5 @@
 1password
 google-chrome
-kwalletcli
 python-validity
 toot
 trizen

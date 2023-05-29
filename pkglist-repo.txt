@@ -1,12 +1,15 @@
 base
 base-devel
+bmon
 btrfs-progs
 cups
 docker
 docker-buildx
 git
 htop
+iftop
 intel-ucode
+iotop
 kde-applications-meta
 libusb-compat
 linux

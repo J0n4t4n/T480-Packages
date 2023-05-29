@@ -24,6 +24,7 @@ plasma-wayland-session
 s-tui
 skopeo
 system-config-printer
+tcpdump
 telepathy-morse
 texinfo
 throttled

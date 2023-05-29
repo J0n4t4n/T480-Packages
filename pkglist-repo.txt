@@ -5,6 +5,7 @@ btrfs-progs
 cups
 docker
 docker-buildx
+filezilla
 git
 htop
 iftop

@@ -36,4 +36,5 @@ texinfo
 throttled
 ufw
 unzip
+virt-manager
 zsh

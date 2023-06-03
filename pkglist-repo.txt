@@ -13,6 +13,7 @@ intel-ucode
 iotop
 kde-applications-meta
 libusb-compat
+libvirt
 linux
 linux-firmware
 man-db

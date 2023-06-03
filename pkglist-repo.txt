@@ -25,6 +25,7 @@ openssh
 pipewire-pulse
 plasma-meta
 plasma-wayland-session
+qemu-full
 s-tui
 skopeo
 system-config-printer

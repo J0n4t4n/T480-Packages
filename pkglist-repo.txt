@@ -3,6 +3,7 @@ base-devel
 bmon
 btrfs-progs
 cups
+distrobox
 docker
 docker-buildx
 filezilla
